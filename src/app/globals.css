@@ -5,3 +5,20 @@
 html {
   @apply scroll-smooth
 }
+
+.navbar-white-text {
+  color: white;
+}
+
+.navbar-white-text a {
+  color: white;
+}
+
+.navbar-white-text button {
+  color: white;
+  border-color: white;
+}
+
+.social-link {
+  @apply transform transition-transform duration-300 hover:scale-125
+}
