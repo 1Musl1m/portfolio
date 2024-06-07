@@ -5,7 +5,7 @@ const Home: React.FC = () => {
         <div>
             <div className="container h-screen p-3 flex items-center bg-gradient-to-br from-white to-red-700 pt-28">
                 <div className="p-16 w-1/2">
-                    <h1 className="text-3xl font-semibold">HI, I'M Sasha</h1>
+                    <h1 className="text-3xl font-semibold">HI, I'M Muslim</h1>
                     <h2 className="text-7xl font-bold">
                         I'M A <br />
                         WEB/APP <br /> DEVELOPER
@@ -33,31 +33,34 @@ const Home: React.FC = () => {
             >
                 <div className="block max-w-sm p-6 border rounded-lg shadow bg-black border-white">
                     <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">
-                        Noteworthy technology acquisitions 2021
+                        UI/UX DESIGN
                     </h5>
                     <p className="font-normal">
-                        Here are the biggest enterprise technology acquisitions
-                        of 2021 so far, in reverse chronological order.
+                        I can design and type of web - based application
+                        interface from scratch and research user experience and
+                        implement this design.
                     </p>
                 </div>
 
                 <div className="block max-w-sm p-6 border rounded-lg shadow bg-black border-white">
                     <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">
-                        Noteworthy technology acquisitions 2021
+                        FRONT-END DEVELOPMENT
                     </h5>
                     <p className="font-normal">
-                        Here are the biggest enterprise technology acquisitions
-                        of 2021 so far, in reverse chronological order.
+                        I convert design to coding by using photoshop and
+                        front-end language and framework such as twitter
+                        bootstrap and Sass
                     </p>
                 </div>
 
                 <div className="block max-w-sm p-6 border rounded-lg shadow bg-black border-white">
                     <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">
-                        Noteworthy technology acquisitions 2021
+                        BUG FIXING
                     </h5>
                     <p className="font-normal">
-                        Here are the biggest enterprise technology acquisitions
-                        of 2021 so far, in reverse chronological order.
+                        Give me your bug and design issue.l can fix any kind of
+                        coding and design issue under the hood. I can quickly
+                        support at emergency situtation.
                     </p>
                 </div>
             </div>
@@ -75,23 +78,38 @@ const Home: React.FC = () => {
                             rel="noopener noreferrer"
                             className="social-link"
                         >
-                          <Image src="/github.svg" alt="image" width={50} height={50}></Image>
+                            <Image
+                                src="/github.svg"
+                                alt="image"
+                                width={50}
+                                height={50}
+                            ></Image>
                         </a>
                         <a
-                            href="https://twitter.com"
+                            href="https://t.me/wwqizi"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="social-link"
                         >
-                            <Image src="/telegram.svg" alt="image" width={50} height={50}></Image>
+                            <Image
+                                src="/telegram.svg"
+                                alt="image"
+                                width={50}
+                                height={50}
+                            ></Image>
                         </a>
                         <a
-                            href="https://instagram.com"
+                            href="https://www.instagram.com/meowwsliim?igsh=MTlrZWN5emJ0aGYzOQ%3D%3D&utm_source=qr"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="social-link "
                         >
-                            <Image src="/insta.svg" alt="image" width={50} height={50}></Image>
+                            <Image
+                                src="/insta.svg"
+                                alt="image"
+                                width={50}
+                                height={50}
+                            ></Image>
                         </a>
                     </div>
                 </div>

@@ -49,7 +49,7 @@ const Navbar: React.FC = () => {
                 </li>
             </ul>
             <button className="text-lg border-2 p-2 px-3 rounded border-black font-medium">
-                <Link href='#'>Hire me</Link>
+                <Link href='https://t.me/wwqizi'>Hire me</Link>
             </button>
         </nav>
     );
